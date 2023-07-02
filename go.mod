@@ -1,3 +1,3 @@
-module example.com/greetings
+module qubaitian/greetings
 
 go 1.20
